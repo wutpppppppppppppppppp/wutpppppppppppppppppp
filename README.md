@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Panyawut Piyasirinanan</h1>
-<h3 align="center">Tech Explorer, Jack-of-All-Trades, and Lifelong Learner</h3>
+<h3 align="center">Tech Explorer and Jack-of-All-Trades</h3>
 
 - 🌱 I’m currently learning **Backend Development and Neural Network.**
 
