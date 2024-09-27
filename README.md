@@ -5,6 +5,4 @@
 
 - 📫 How to reach me **gansahy@gmail.com**
 
-- ⚡ Fun fact : **I master at nothing.🥹**
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wutpppppppppppppppppp&theme=default" alt="wutpppppppppppppppppp" /></p>
