@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Panyawut Piyasirinanan</h1>
 <h3 align="center">Tech Explorer and Jack-of-All-Trades</h3>
 
-- 🌱 I’m currently learning **Backend Development, Neural Network and NLP.**
+- 🌱 I’m currently learning **Backend Development, and Most AI fields (e.g., NLP, Image Processing).**
 
 - 📫 How to reach me **gansahy@gmail.com**
 
