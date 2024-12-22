@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Panyawut Piyasirinanan</h1>
 <h3 align="center">Enthusiastic full-stack developer and data analyst.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wutpppppppppppppppppp&label=Profile%20views&color=0e75b6&style=flat" alt="wutpppppppppppppppppp" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wutpppppppppppppppppp" alt="wutpppppppppppppppppp" /></a> </p>
-
 - 🔭 I’m currently working on **contributing market impact.**
 
 - 🌱 I’m currently learning **Generative AI, Date pipelining**
@@ -20,4 +16,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wutpppppppppppppppppp&show_icons=true&locale=en" alt="wutpppppppppppppppppp" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wutpppppppppppppppppp&" alt="wutpppppppppppppppppp" /></p>
