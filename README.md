@@ -1,18 +1,59 @@
-<h1 align="center">Hi 👋, I'm Panyawut Piyasirinanan</h1>
-<h3 align="center">Enthusiastic full-stack developer and data analyst.</h3>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Panyawut</h1></summary>
+  </ul>
+</div>
 
-- 🔭 I’m currently working on **contributing market impact.**
 
-- 🌱 I’m currently learning **Machine Learning, Data pipelining, and Backend development**
+<!--- snake -->
+<div align="center">
+  <img  src="  https://raw.githubusercontent.com/wutpppppppppppppppppp/wutpppppppppppppppppp/output/github-contribution-grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
-- 👯 I’m looking to collaborate on **web development**
+<!--Intro start-->
+- 🔭 I’m currently working on **Web development**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/panyawut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/panyawut" height="30" width="40" /></a>
+- 🌱 I’m currently learning **AI for applying to business solution**
+
+- ☁️ I've keen interest in AI. So, I'm learning **Generative AI and Data engineering**
+
+- 📫 Feel free to reach me out **gansahy@gmail.com**
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,c,express,go,mongodb,postgres,nextjs,nodejs,sklearn,sentry,tailwind,tensorflow,threejs,git,docker,postman&perline=9" />
+  </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wutpppppppppppppppppp&show_icons=true&locale=en&layout=compact" alt="wutpppppppppppppppppp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wutpppppppppppppppppp&show_icons=true&locale=en" alt="wutpppppppppppppppppp" /></p>
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
 
+<!--icons and links-->
+<p align="center">
+<a href="www.linkedin.com/in/panyawut" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/306413717753561088" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  
+</p>
+
+
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=wutpppppppppppppppppp&icon=1&color=6)](https://visitcount.itsvg.in)
+  
+</div>
