@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **contributing market impact.**
 
-- 🌱 I’m currently learning **Generative AI, Date pipelining**
+- 🌱 I’m currently learning **Machine Learning, Data pipelining, and Backend development**
 
 - 👯 I’m looking to collaborate on **web development**
 
