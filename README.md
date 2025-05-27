@@ -21,20 +21,6 @@
 
 - 📫 Feel free to reach me out **gansahy@gmail.com**
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,c,express,go,mongodb,postgres,nextjs,nodejs,sklearn,sentry,tailwind,tensorflow,threejs,git,docker,postman&perline=9" />
-  </a>
-</p>
-
-
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
