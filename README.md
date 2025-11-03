@@ -4,14 +4,6 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Panyawut</h1></summary>
   </ul>
 </div>
-
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://raw.githubusercontent.com/wutpppppppppppppppppp/wutpppppppppppppppppp/output/github-contribution-grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <!--Intro start-->
 - 🔭 I’m currently working on **myself**
 
