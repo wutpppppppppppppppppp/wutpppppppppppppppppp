@@ -5,8 +5,5 @@
   </ul>
 </div>
 <!--Intro start-->
-- 🔭 I’m currently working on **myself**
-
-- 🌱 I’m currently learning **to live**
 
 - 📫 Feel free to reach me out **gansahy@gmail.com**
