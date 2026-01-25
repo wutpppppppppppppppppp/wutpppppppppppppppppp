@@ -5,5 +5,3 @@
   </ul>
 </div>
 <!--Intro start-->
-
-- 📫 Feel free to reach me out **gansahy@gmail.com**
